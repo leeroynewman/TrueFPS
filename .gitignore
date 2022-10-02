@@ -5,6 +5,7 @@ Saved
 Content/Assets
 .vscode
 .vs
+.idea
 *.VC.db
 *.opensdf
 *.opendb
